@@ -1,5 +1,4 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-
+This is a ecommerce landing page project built by octofriend-cli/4-10-2025 by the qwen3-coder-plus model from the porta.qwen.ai api endpoint(qwen-code's free tier api provider)
 ## Getting Started
 
 First, run the development server:
